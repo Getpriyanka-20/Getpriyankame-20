@@ -17,8 +17,11 @@
   _POM framework + reporting + CI-ready execution_
 - **Appium Android E-commerce Automation** — (link)  
   _End-to-end flows with stable locators and waits_
-- **API Testing Collection (Postman + Rest Assured)** — (link)  
+- **API Testing Collection (Postman)** — https://github.com/Getpriyanka-20/Postman-Library-API-tests 
+  _Auth + positive tests + validations_
+- **API Testing Collection (RestAssured)** — (link)
   _Auth + positive/negative tests + validations_
+
 
 ### Open to
 **QA Engineer / Automation QA / SDET** roles (Manual + Automation)
